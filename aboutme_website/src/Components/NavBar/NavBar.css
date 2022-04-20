@@ -13,3 +13,9 @@ nav {
   border-radius: 5rem;
   backdrop-filter: blur(10px);
 }
+
+nav a {
+  background: transparent;
+  padding: 1rem;
+  border-radius: 50%;
+}
