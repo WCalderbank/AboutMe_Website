@@ -87,7 +87,9 @@ function Experience() {
         </div>
       </div>
       {/* BREAK 2  */}
-      <div className="experience_tools"></div>
+      <div className="experience_tools">
+        <h3>Technical Tools</h3>
+      </div>
     </section>
   );
 }
