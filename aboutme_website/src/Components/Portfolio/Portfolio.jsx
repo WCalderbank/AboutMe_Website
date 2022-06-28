@@ -1,6 +1,16 @@
 import React from "react";
 import "./Portfolio.css";
-import Project1 from "../../Accessories/React-Built D&D - 1.png";
+import Project1 from "../../Accessories/Project1.png";
+import Project2 from "../../Accessories/Project2.png";
+import Project3 from "../../Accessories/Project3.png";
+import Project4 from "../../Accessories/Project4.png";
+import Project5 from "../../Accessories/Project5.png";
+import Project6 from "../../Accessories/Project6.png";
+import Project7 from "../../Accessories/Project7.png";
+import Project8 from "../../Accessories/Project8.png";
+import Project9 from "../../Accessories/Project9.png";
+import Project10 from "../../Accessories/Project10.png";
+import Project12 from "../../Accessories/Project12.png";
 
 function Portfolio() {
   return (
@@ -30,7 +40,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project2} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -50,7 +60,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project3} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -70,7 +80,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project4} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -90,7 +100,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project5} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -110,7 +120,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project6} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -130,7 +140,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project7} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -150,7 +160,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project8} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -170,7 +180,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project9} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -190,7 +200,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project10} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -210,7 +220,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project10} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
@@ -230,7 +240,7 @@ function Portfolio() {
         </article>
         <article className="portfolio_project">
           <div className="portfolio_project_image">
-            <img src={Project1} alt="Project" />
+            <img src={Project12} alt="Project" />
           </div>
           <h3>Portfolio Project Title</h3>
           <div className="portfolio_project_cta">
