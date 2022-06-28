@@ -23,8 +23,6 @@
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
-  height: 500px;
-  width: 500px;
   border: 2px solid var(--color-primary);
 }
 
@@ -48,7 +46,7 @@
 
 .about_card:hover {
   background: transparent;
-  border-color: var(--color-bg-variant);
+  border-color: var(--color-primary);
   cursor: default;
 }
 

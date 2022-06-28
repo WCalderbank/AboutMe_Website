@@ -13,39 +13,53 @@ function Experience() {
           <h3>Frontend Development</h3>
           <div className="experience_data">
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>HTML</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>HTML</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>CSS</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>CSS</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>JavaScript</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>JavaScript</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>TypeScript</h4>
-              <small className="text-bright">Intermediate</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>TypeScript</h4>
+                <small className="text-bright">Intermediate</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>React</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>React</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Node</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Node</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Jest</h4>
-              <small className="text-bright">Intermediate</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Jest</h4>
+                <small className="text-bright">Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
@@ -54,41 +68,138 @@ function Experience() {
           <h3>Backend Development</h3>
           <div className="experience_data">
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Rest API</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Git</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Node.js</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Node.js</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Express</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Express</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Heroku</h4>
-              <small className="text-bright">Intermediate</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Heroku</h4>
+                <small className="text-bright">Intermediate</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>PostgreSQL</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>PostgreSQL</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
             <article className="experience_skills">
-              <BsPatchCheckFill />
-              <h4>Databases</h4>
-              <small className="text-bright">Experienced</small>
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Databases</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>API Knowledge</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
             </article>
           </div>
         </div>
-      </div>
-      {/* BREAK 2  */}
-      <div className="experience_tools">
-        <h3>Technical Tools</h3>
+        {/* BREAK 2  */}
+        <div className="experience_tools">
+          <h3>Technical Tools</h3>
+          <div className="experience_data">
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>GitHub</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Visual Studio Code</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Slack</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Trello</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Figma</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Postman</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Visual Studio 2022</h4>
+                <small className="text-bright">Beginner</small>
+              </div>
+            </article>
+          </div>
+        </div>
+        {/* Break 3 */}
+        <div className="experience_languages">
+          <h3>Programming Languages</h3>
+          <div className="experience_data">
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>JavaScript</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-bright">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>C#</h4>
+                <small className="text-bright">Beginner</small>
+              </div>
+            </article>
+          </div>
+        </div>
       </div>
     </section>
   );

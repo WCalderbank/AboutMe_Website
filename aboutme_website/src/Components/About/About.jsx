@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Me from "../../Accessories/Profile.jpeg";
+import Me from "../../Accessories/Pic.jpg";
 import { FaBriefcase, FaClipboardCheck, FaHandshake } from "react-icons/fa";
 
 function About() {
@@ -22,7 +22,7 @@ function About() {
             <article className="about_card">
               <FaBriefcase className="about_icon" />
               <h5>Experience</h5>
-              <small>6 Months</small>
+              <small>8 Months</small>
             </article>
             <article className="about_card">
               <FaHandshake className="about_icon" />
@@ -32,7 +32,7 @@ function About() {
             <article className="about_card">
               <FaClipboardCheck className="about_icon" />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
 

@@ -7,6 +7,7 @@ import Portfolio from "./Components/Portfolio/Portfolio";
 import References from "./Components/References/References";
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
+import ServicesIProvide from "./Components/ServicesIProvide/ServicesIProvide";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <NavBar />
       <About />
       <Experience />
+      <ServicesIProvide />
       <Portfolio />
       <References />
       <Contact />
