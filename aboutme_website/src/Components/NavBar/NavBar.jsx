@@ -7,6 +7,7 @@ import {
   FaUsers,
   FaFingerprint,
   FaEnvelopeSquare,
+  FaLightbulb,
 } from "react-icons/fa";
 import { useState } from "react";
 
@@ -34,6 +35,13 @@ function NavBar() {
         className={currentNav === "#experience" ? "active" : ""}
       >
         <FaLaptopCode />
+      </a>
+      <a
+        href="#services_i_provide"
+        onClick={() => setCurrentNav("#services_i_provide")}
+        className={currentNav === "#services_i_provide" ? "active" : ""}
+      >
+        <FaLightbulb />
       </a>
       <a
         href="#portfolio"
