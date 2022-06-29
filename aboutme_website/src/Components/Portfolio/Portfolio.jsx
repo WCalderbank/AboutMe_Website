@@ -81,7 +81,7 @@ function Portfolio() {
               GitHub
             </a>
             <a
-              href="https://github.com/WCalderbank"
+              href="https://retro-reminder-list-321.netlify.app"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -105,7 +105,7 @@ function Portfolio() {
               GitHub
             </a>
             <a
-              href="https://github.com/WCalderbank"
+              href="https://dd-character-creator.netlify.app"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
@@ -217,7 +217,7 @@ function Portfolio() {
           <h3>Worldwide News API</h3>
           <div className="portfolio_project_cta">
             <a
-              href="https://github.com/WCalderbank/Random-Dungeons-and-Dragons-Character-Creator"
+              href="https://github.com/"
               className="btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -225,7 +225,7 @@ function Portfolio() {
               GitHub
             </a>
             <a
-              href="https://github.com/WCalderbank"
+              href="https://percayso-news-6d487f.netlify.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"

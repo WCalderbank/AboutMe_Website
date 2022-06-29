@@ -37,10 +37,12 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Exercitationem corporis dicta ipsa ipsum debitis assumenda
-            voluptatibus vel porro aliquid, dolore deserunt magnam quasi numquam
-            praesentium suscipit, quis voluptatem quae eligendi!
+            Hey there, My name is Will Calderbank, a software developer from
+            Rochdale, Greater Manchester. I'm searching for a position
+            (front-end or back-end) in an Agile company. I love learning new
+            skills, have a creative problem-solving mind and wish to learn more
+            about the ever expanding world of tech firsthand. Looking forward to
+            jumping into the industry and starting my new journey.
           </p>
           <a href="#contact" className="btn btn-primary">
             {" "}

@@ -1,8 +1,8 @@
 import React from "react";
 import "./Header.css";
 import CTA from "./CTA";
-import profile from "../../Accessories/Warrior.png";
 import HeaderLinks from "./HeaderLinks";
+import { FaUserSecret } from "react-icons/fa";
 
 function Header() {
   return (
@@ -15,7 +15,7 @@ function Header() {
         <HeaderLinks />
 
         <div className="profile">
-          <img src={profile} alt="me" />
+          <FaUserSecret />
         </div>
 
         <a href="#contact" className="scroller">
