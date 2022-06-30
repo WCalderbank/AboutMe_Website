@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Me from "../../Accessories/Pic.jpg";
+import Me from "../../Accessories/Me1.JPG";
 import { FaBriefcase, FaClipboardCheck, FaHandshake } from "react-icons/fa";
 
 function About() {
