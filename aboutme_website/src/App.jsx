@@ -6,7 +6,7 @@ import Experience from "./Components/Experience/Experience";
 import Portfolio from "./Components/Portfolio/Portfolio";
 import References from "./Components/References/References";
 import Contact from "./Components/Contact/Contact";
-
+import Footer from "./Components/Footer/Footer";
 import ServicesIProvide from "./Components/ServicesIProvide/ServicesIProvide";
 
 const App = () => {
@@ -20,6 +20,7 @@ const App = () => {
       <Portfolio />
       <References />
       <Contact />
+      <Footer />
     </>
   );
 };
