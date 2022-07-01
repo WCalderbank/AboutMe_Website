@@ -37,8 +37,8 @@ function About() {
           </div>
 
           <p>
-            Hey there, My name is Will Calderbank, a software developer from
-            Rochdale, Greater Manchester. I'm searching for a position
+            Hey there, My name is Will Calderbank, I am a software developer
+            from Rochdale, Greater Manchester. I'm searching for a position
             (front-end or back-end) in an Agile company. I love learning new
             skills, have a creative problem-solving mind and wish to learn more
             about the ever expanding world of tech first-hand. Looking forward
