@@ -214,7 +214,7 @@ function Portfolio() {
           <div className="portfolio_project_image">
             <img src={Project9} alt="Project" />
           </div>
-          <h3>Worldwide News API</h3>
+          <h3>World News API</h3>
           <div className="portfolio_project_cta">
             <a
               href="https://github.com/"
