@@ -48,7 +48,7 @@ function ServicesIProvide() {
             </li>
             <li>
               <BsFillHandThumbsUpFill className="service_i_provide_icon" />
-              <p>Work In Tandem With Other Developers</p>
+              <p>Work Cooperatively & Effectively With Developers</p>
             </li>
             <li>
               <BsFillHandThumbsUpFill className="service_i_provide_icon" />
