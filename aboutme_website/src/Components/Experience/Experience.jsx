@@ -171,6 +171,13 @@ function Experience() {
                 <small className="text-bright">Beginner</small>
               </div>
             </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Canva</h4>
+                <small className="text-bright">Experienced</small>
+              </div>
+            </article>
           </div>
         </div>
         {/* Break 3 */}
