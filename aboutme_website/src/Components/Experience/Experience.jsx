@@ -57,8 +57,15 @@ function Experience() {
             <article className="experience_skills">
               <BsPatchCheckFill className="experience_icon" />
               <div>
-                <h4>Jest</h4>
+                <h4>CodePen</h4>
                 <small className="text-bright">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience_skills">
+              <BsPatchCheckFill className="experience_icon" />
+              <div>
+                <h4>Jest</h4>
+                <small className="text-bright">Experienced</small>
               </div>
             </article>
           </div>
