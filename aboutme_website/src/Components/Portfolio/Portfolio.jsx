@@ -70,7 +70,7 @@ function Portfolio() {
           <div className="portfolio_project_image">
             <img src={Project3} alt="Project" />
           </div>
-          <h3>Retro Reminder List</h3>
+          <h3>Retro Reminder</h3>
           <div className="portfolio_project_cta">
             <a
               href="https://github.com/WCalderbank/Retro_Reminder_List"
@@ -190,7 +190,7 @@ function Portfolio() {
           <div className="portfolio_project_image">
             <img src={Project8} alt="Project" />
           </div>
-          <h3>Television API Retriever</h3>
+          <h3>Television API Directory</h3>
           <div className="portfolio_project_cta">
             <a
               href="https://github.com/WCalderbank/Tv_Show_Site"
