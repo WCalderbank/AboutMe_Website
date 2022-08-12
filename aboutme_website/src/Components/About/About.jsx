@@ -41,8 +41,8 @@ function About() {
             from Rochdale, Greater Manchester. I'm searching for a position
             (front-end or back-end) in an Agile company. I love learning new
             skills, have a creative problem-solving mind and wish to learn more
-            about the ever expanding world of tech first-hand. I"m Looking
-            forward to jumping into the industry and starting my new journey.
+            about the ever expanding world of tech first-hand. I"m exhilarated
+            about jumping into the industry and starting my new journey.
           </p>
           <a href="#contact" className="btn btn-primary">
             {" "}

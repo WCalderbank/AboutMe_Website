@@ -262,7 +262,7 @@ function Portfolio() {
           <div className="portfolio_project_image">
             <img src={Project10} alt="Project" />
           </div>
-          <h3>Python Hangman</h3>
+          <h3>Python Hangman Game</h3>
           <div className="portfolio_project_cta">
             <a
               href="https://github.com/WCalderbank/Python_Hangman"
