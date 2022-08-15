@@ -146,7 +146,7 @@ function Experience() {
             <article className="experience_skills">
               <BsPatchCheckFill className="experience_icon" />
               <div>
-                <h4>Slack</h4>
+                <h4>Slack Messenger</h4>
                 <small className="text-bright">Experienced</small>
               </div>
             </article>
